@@ -4,7 +4,7 @@ Generate stunning QR codes instantly from links or text — with a modern UI, sm
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live
 
 [🚀 Try Instant QR Studio](https://inst-qr-studio.vercel.app/)
 

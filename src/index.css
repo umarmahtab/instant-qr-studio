@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: only light;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", sans-serif;
+  background-color: #f7f5ef;
+  background-image: radial-gradient(circle at top, rgba(14, 165, 164, 0.12), transparent 45%),
+    radial-gradient(circle at 20% 20%, rgba(255, 122, 89, 0.18), transparent 40%),
+    radial-gradient(circle at 80% 10%, rgba(246, 211, 101, 0.18), transparent 40%);
+  color: #0d1b2a;
+}
+
+* {
+  box-sizing: border-box;
+}

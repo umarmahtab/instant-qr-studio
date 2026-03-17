@@ -2,6 +2,7 @@
 
 Generate stunning QR codes instantly from links or text — with a modern UI, smooth animations, and real-time preview.
 
+---
 
 ## 🌐 Live Demo
 

@@ -4,7 +4,7 @@ Generate stunning QR codes instantly from links or text — with a modern UI, sm
 
 ---
 
-## 🌐 Live
+## 🌐 Its Live
 
 [🚀 Try Instant QR Studio](https://inst-qr-studio.vercel.app/)
 
@@ -92,12 +92,6 @@ npm run build
 ## 🤝 Contributing
 
 Pull requests are welcome! Feel free to fork and improve the project.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
